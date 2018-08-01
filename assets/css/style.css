@@ -1,0 +1,61 @@
+.text-center {
+    font-size: 75px;
+}
+
+h3{
+    text-align: center;
+    color:rgb(15,31,52);
+}
+
+.panel-body {
+    font-family: "Poiret One", cursive;
+    color:rgb(15,31,52);
+}
+.jumbotron {
+	background-color: rgb(104, 145, 114);
+    color: white;
+    font-family: "Poiret One", cursive;
+}
+
+.target-number {
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+	background-color:rgb(15,31,52);
+	border-style: solid;
+	border-color: rgb(220,235,244);
+	border-width: 4px;
+}
+
+.wins-losses-counter {
+    padding: 14px;
+    font-family: "Poiret One", cursive;
+    color: white;
+    text-align: center;
+	background-color: rgb(15,31,52);
+	border-style: solid;
+	border-color: rgb(220,235,244);
+	border-width: 4px;
+}
+
+.crystal-images {
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: -20px;
+    text-align: center;
+}
+
+.total-score {
+	color: white;
+    background-color:rgb(211,84,66);
+    text-align: center;
+    font-family: "Poiret One", cursive;
+}
+
+.score-number {
+	color: white;
+	background-color:rgb(211,84,66);
+    font-size: 30px;
+    text-align: center;
+}
